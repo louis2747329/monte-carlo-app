@@ -1,9 +1,7 @@
+streamlit
 numpy
-matplotlib.pyplot
-matplotlib.animation
+matplotlib
 pandas
 seaborn
-scipy.stats
+yfinance
 scipy
-os
-time
