@@ -1,0 +1,9 @@
+numpy
+matplotlib.pyplot
+matplotlib.animation
+pandas
+seaborn
+scipy.stats
+scipy
+os
+time
